@@ -59,7 +59,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/Vladosik337" target="_blank">
-<img src=https://cdn-icons-png.flaticon.com/512/2111/2111646.png?&style=for-the-badge&logo=telegramlogo&logoColor=white alt=linkedin style="margin-bottom: 5px; width: 50px height: 50px" />
+<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegramlogo&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
   
