@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div>Hi there 👋 I'm Vlad, a passionate junior front-end developer 👨‍💻 with a focus on building user-friendly web interfaces. Currently enhancing my skills in HTML, CSS, JavaScript and React , I strive to create clean and responsive designs 🚀. Excited to continue growing.</div>  
+### <div>Hi there 👋 I'm Vlad, a passionate junior front-end developer 👨‍💻 with a focus on building user-friendly web interfaces. Currently enhancing my skills in HTML, CSS, TypeScript and React , I strive to create clean and responsive designs 🚀. Excited to continue growing.</div>  
   
 ✨ Creating bugs since 2022
 
